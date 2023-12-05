@@ -1,16 +1,39 @@
-### Hi there 👋
+<div align="justify">
 
-<!--
-**SurivZ/SurivZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hola :D
+      <br>
+        Soy SurivZ, desarrollador autodidacta, apasionado por la tecnología y los videojuegos.
+      </b>
+      <br>
+      <br>
+      <b>
+        ~ David Serrano ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<details>
+<summary><samp><b>Más información</b></samp></summary>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=300&height=100&lines=Python;JavaScript;SQL;HTML;CSS;League+of+Legends+%3AD" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurivZ&layout=compact&theme=dark">
+</div>
+
+</details>
+</div>
+
+<!-- 
+Para la creación de este repo me basé en el perfil de rxyhn
+Aquí su perfil: https://github.com/rxyhn
 -->
