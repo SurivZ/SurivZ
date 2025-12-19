@@ -6,7 +6,7 @@
       <b>
         Hola :D
       <br>
-        Soy SurivZ, desarrollador autodidacta, apasionado por la tecnología y los videojuegos.
+        Soy Suriv, desarrollador autodidacta, apasionado por la tecnología y los videojuegos.
       </b>
       <br>
       <br>
