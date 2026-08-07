@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurivZ&layout=compact&theme=dark">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SurivZ&layout=compact&langs_count=4&theme=dark">
 </div>
 
 </details>
